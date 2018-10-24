@@ -9,8 +9,7 @@ body {
 a {
     text-decoration: none;
 }
-
-.main {
+.main { background-color:blue;
     height: 100%;
 }
 .social-image{
